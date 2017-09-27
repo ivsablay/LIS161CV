@@ -1,0 +1,64 @@
+header  {
+    text-align: center;
+    background-size: cover;
+    background: url("Pictures/suju3.png");
+    color: black; 
+  }
+
+h1 {
+ 	font-size: 60px; 
+ 	font-style: oblique;
+ 	font color: white;
+ }
+
+.mainheading {
+		color: white;
+		font-style: Helvetica; 
+	}
+
+
+body {
+		background-color: black; 
+	}
+	
+
+.container {
+		margin-right: auto;
+   	 	margin-left: auto;
+    	padding-right: 15px;
+    	padding-left: 15px;
+    	width: 100%;
+}
+
+ul {
+	text-align: center;
+	background-color: #E5E8E8  ;
+} 
+
+li {
+    display: inline;
+    padding: 0px 10px 0px 10px;
+    font-size: 26;
+    font-style: Helvetica;
+}
+
+
+img  {
+	border: 2px solid white;
+    border-radius: 5px;
+    width: 30px;
+    height: 30x;
+}
+
+h4{
+    color: white;
+}
+
+h2 {
+    color: white;
+}
+
+.member{ 
+    width: 250px;
+    height:250px;
+}
